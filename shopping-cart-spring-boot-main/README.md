@@ -26,15 +26,8 @@ A production-ready multi-vendor **eCommerce backend** built using **Java Spring 
 ---
 
 ## Project Structure
-shopping-cart-spring-boot-main/
-│
-├── src/
-├── .mvn/
-├── .gitignore
-├── pom.xml
-├── mvnw / mvnw.cmd
-└── README.md
 
+<img width="271" height="225" alt="image" src="https://github.com/user-attachments/assets/bdbb311f-b031-4ce6-b333-ad93d7af5f26" />
 
 ---
 
