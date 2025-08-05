@@ -26,4 +26,28 @@ A production-ready multi-vendor **eCommerce backend** built using **Java Spring 
 ---
 
 ## Project Structure
+shopping-cart-spring-boot-main/
+│
+├── src/
+├── .mvn/
+├── .gitignore
+├── pom.xml
+├── mvnw / mvnw.cmd
+└── README.md
+
+
+---
+
+## 🧪 How to Run Locally
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Gaya3-hue/Springboot-ecommerce-app.git
+cd Springboot-ecommerce-app
+
+# 2. Configure DB in src/main/resources/application.properties
+
+# 3. Run using Maven
+./mvnw spring-boot:run
+
 
