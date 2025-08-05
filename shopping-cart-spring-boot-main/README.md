@@ -43,4 +43,39 @@ cd Springboot-ecommerce-app
 # 3. Run using Maven
 ./mvnw spring-boot:run
 
+👨‍💻 Author
+Gaya3-hue
+Java + Spring Boot Developer | Full-stack Learner | CSE Final Year
+
+📄 License
+This project is licensed under the MIT License.
+
+
+---
+
+### ✅ 2. `LICENSE` (MIT License)
+
+> 📄 Create a new file in your repo called `LICENSE`
+
+```txt
+MIT License
+
+Copyright (c) 2025 Gaya3-hue
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+
+[...keep the rest as-is from GitHub MIT template...]
+
+![WhatsApp Image 2025-08-05 at 21 33 43_d2a0262c](https://github.com/user-attachments/assets/699644cd-37b2-493f-82a4-ac804c56e609)
+
+![WhatsApp Image 2025-08-05 at 21 32 48_c90ebb5b](https://github.com/user-attachments/assets/cce77eef-c6a4-48d4-83ba-8a9ef8debd12)
+
+![WhatsApp Image 2025-08-05 at 21 32 48_d2a689ab](https://github.com/user-attachments/assets/ca75fc92-437f-47cf-a54b-a9b5a8bd3f8f)
+
+![WhatsApp Image 2025-08-05 at 21 32 48_321e37f6](https://github.com/user-attachments/assets/91f30a45-b4d9-4039-b855-3aa5a052a044)
+
+
+
 
