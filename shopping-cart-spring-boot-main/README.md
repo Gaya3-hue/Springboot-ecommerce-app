@@ -43,10 +43,6 @@ cd Springboot-ecommerce-app
 # 3. Run using Maven
 ./mvnw spring-boot:run
 
-
-![WhatsApp Image 2025-08-05 at 21 33 43_70a51586](https://github.com/user-attachments/assets/38a9e61f-baae-4c13-b837-842e20630a56)
-
-
 👨‍💻 Author
 Gaya3-hue
 Java + Spring Boot Developer | Full-stack Learner | CSE Final Year
